@@ -7,6 +7,8 @@ PARAMS stores the parameter files of the various models used to calculate fitnes
 
 HELPER_FILES stores the various encoding and data files which the training and some functions depend on.
 
+GA_DATA stores the excel sheet mapping sequences to their fitness and potentially other computed data
+
 Part A: Trains all the algorithms and stores parameters 
 https://colab.research.google.com/drive/145xEG89g0Ui8wUt4G7-WkZapUNmK_A8l#scrollTo=oLufXSgSagCT
 
