@@ -10,11 +10,14 @@ HELPER_FILES stores the various encoding and data files which the training and s
 GA_DATA stores the excel sheet mapping sequences to their fitness and potentially other computed data
 
 Part A: Trains all the algorithms and stores parameters 
-https://colab.research.google.com/drive/145xEG89g0Ui8wUt4G7-WkZapUNmK_A8l#scrollTo=oLufXSgSagCT
+https://colab.research.google.com/drive/15185toAaOooZk4yHbh5t9-HJmonDuYuV?usp=sharing
 
-Part B: Downloads parameters and runs GA, fitness is a fetch function from this repo.
-https://colab.research.google.com/drive/1JybmZayB51Jg_aP7odvOG9p2_E2pOFWz#scrollTo=pR10is3KTFL0
+Part B: Downloads parameters and runs GA, fitness calculates fitness
+https://colab.research.google.com/drive/1hHGX1lfNVdAcUeQ5fHfHWq0IPhAswYS1?usp=sharing
 
-Client: Runs the actual fitness function, allows for distributed computing.
-https://colab.research.google.com/drive/1UjmodRu5yx9if6FFB9PsNxaganR_jfOU#scrollTo=3LZ1l7iBiRAV
+Part B Client: Downloads parameters and runs GA, fitness is a fetch function from this repo.
+https://colab.research.google.com/drive/1JybmZayB51Jg_aP7odvOG9p2_E2pOFWz?usp=sharing
+
+Client: Runs the actual fitness function, and allows for distributed computing.
+https://colab.research.google.com/drive/1UjmodRu5yx9if6FFB9PsNxaganR_jfOU?usp=sharing
 
