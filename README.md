@@ -18,6 +18,12 @@ https://colab.research.google.com/drive/1hHGX1lfNVdAcUeQ5fHfHWq0IPhAswYS1?usp=sh
 Part B Client: Downloads parameters and runs GA, fitness is a fetch function from this repo.
 https://colab.research.google.com/drive/1JybmZayB51Jg_aP7odvOG9p2_E2pOFWz?usp=sharing
 
+Part B Client Mongo: Downloads parameters and runs GA, fitness is a fetch function from a MongoDB
+https://colab.research.google.com/drive/1Giv6xuVzLS9NFoV8054T1o3mN_j_32Al
+
 Client: Runs the actual fitness function, and allows for distributed computing.
 https://colab.research.google.com/drive/1UjmodRu5yx9if6FFB9PsNxaganR_jfOU?usp=sharing
+
+Client Mongo: Runs the actual fitness function, and allows for distributed computing.
+https://colab.research.google.com/drive/1LhCshiWFeXqC1xp9FrNKQ1pWTRo5OFGR?authuser=2
 
